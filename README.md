@@ -20,21 +20,12 @@ Let's say you want to encrypt the text "Hello, World!" with a shift of 3. Here's
 Enter text to encrypt/decrypt: Hello, World!
 Enter the shift value: 3
 
-lua
-Copy code
-
 The output will be:
 Encrypted/Decrypted text: Khoor, Zruog!
-
-csharp
-Copy code
 
 ## Contributions
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## Credits
-This program was created by [Your Name].
-
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Feel free to use `_No Lisence_ `
 
