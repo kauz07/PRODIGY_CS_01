@@ -27,5 +27,5 @@ Encrypted/Decrypted text: Khoor, Zruog!
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## License
-Feel free to use `_No Lisence_ `
+Feel free to use _`No Lisence`_ 
 
